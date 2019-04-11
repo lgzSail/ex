@@ -1,0 +1,41 @@
+.carousel-indicators li {
+    position: relative;
+    flex: 0 1 auto;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-left: 3px;
+    text-indent: -999px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.bk{
+    padding:5px;
+    border:3px solid #fff;
+    line-height:0px;
+}
+.f_color{
+    color:#7E808A;
+}
+.f_20{
+    font: 18px '微软雅黑';
+}
+.h_in{
+    height:25px;
+}
+.hr_1{
+    border-top:2px solid rgba(0, 0, 0, 1)
+}
+.f_12{
+    font-size:12px;
+  }
+.font13_color{
+    color:#7E808A;
+    font-size: 13px;
+}
+.fy_font{
+    font-size:14px;color:#7E808A;
+}
+.xs{
+    cursor: pointer;
+}

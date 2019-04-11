@@ -1,0 +1,11 @@
+.sx a:hover{border-bottom:2px solid red;}
+.sx a{transition: all 0.5s;border-bottom:0px solid red;color:#7E808A;padding-bottom: 4px }
+.bq_border span{
+  border:1px solid #7E808A;font-size:8px;color:#7E808A;padding: 4px 8px;
+}
+.bq_color{
+  font-size:8px;color:#7E808A;
+}
+.fy_font{
+  font-size:14px;color:#7E808A;
+}

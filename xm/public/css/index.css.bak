@@ -1,0 +1,91 @@
+
+a:hover{text-decoration:none}
+.bg{
+    background-color: rgba(0,0,0,0.7);
+}
+.sm-size{
+    font-size:12px;
+}
+#d a,{
+    color:#fff;font-size:21px;
+}
+.lg_size{
+    font-size:21px;color:#000;
+}
+.nav-item{
+    margin-left: 70px;
+    padding-bottom: 26px;
+}
+.nav-item>a{
+    padding-bottom: 0px;
+}
+.nav-link:hover{
+    color:#fff !important;
+}
+.carousel-indicators li {
+    height: 5px;
+}
+.z_index{
+    z-index: 10;
+}
+.fontsize14px{
+    font-size:13px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.lh{
+    line-height: 42px;width:100%;height:180px;
+}
+.line_height_30px{
+    line-height: 30px;
+}
+.banner1{
+    width:1000px;
+}
+.w_90px{
+  width:90px;
+}
+.w_90px li:first-child{
+    color:#fff;font-size:18px;margin-bottom: 1.5rem;
+}
+.w_90px a{
+    color:#7E808A;
+    font-size: 8px;
+}
+.foot span:not(:first-child){
+  border-right: 1px solid #fff;color:#7E808A; font-size: 8px;padding:0px 20px;
+}
+.foot span:first-child{
+    border-right: 1px solid #fff;color:#7E808A; font-size: 8px;padding-right: 20px;
+}
+.left1 li{
+    margin:0 10px 10px;
+}
+.yc{display: none !important}
+.flo{
+    top:0;
+    width:91%;
+    background: rgba(0,0,0,0.7);
+}
+#d2:hover .yc{
+	display:flex !important;
+}
+.xh{
+	height: 2px;
+    background-color: #fff;
+    position: absolute;
+    width: 0;
+}
+.xhx:hover .xh{
+	transition: .3s;
+	width: 25%;
+	background-color: red;
+}
+.cs a{
+	border-bottom:2px solid #fff;
+}
+.cs:hover a{
+	border-bottom-color:red;
+	transition: .3s;
+}

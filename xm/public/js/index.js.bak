@@ -1,0 +1,16 @@
+(function(){
+    window.addEventListener('scroll', function (e) {
+        var i = document.documentElement.scrollTop;
+        if(i>1000){
+            d1.children[0].innerHTML=`<img src="img/ico/logo2.png"/>`
+            d1.lastElementChild.firstElementChild.className=' yc'
+        }else{
+            d1.children[0].innerHTML=`<img src="img/logo.png"/>`
+            d1.lastElementChild.firstElementChild.className=' row justify-content-end align-items-center mr-5'
+        }
+    })
+		var d2=document.getElementById('d2')
+		d2.children[0].onhover(function(){
+		this.lastElementChild.className="position-absolute h-100 flo d-flex align-items-center justify-content-center"})
+})()
+

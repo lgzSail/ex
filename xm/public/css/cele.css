@@ -1,0 +1,23 @@
+.color_7E808A{
+  color:#7E808A;
+}
+.xhx:hover .xh{
+	transition: .3s;
+	width: 13%;
+	background-color: red;
+}
+.xhx1:hover .xh1{
+	transition: .3s;
+	width: 25%;
+	background-color: red;
+}
+.mouse{
+	cursor:pointer
+}
+.font14_color{
+	color:#7E808A;
+	font-size: 12px;
+}
+.font16{
+	font-size:16px;
+}
